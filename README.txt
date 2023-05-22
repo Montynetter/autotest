@@ -1,0 +1,1 @@
+Automation Test Script for Yandex Market
